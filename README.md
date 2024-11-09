@@ -48,7 +48,11 @@ _You **can** combine them_
 1. Unnested
 2. second untested
 
+## Tables
 
+| Name            | Phone        | Email             |
+|-----------------|--------------|-------------------|
+| Aminu Dzara     | 0893754678   | example@mail.com  |
 
 
 
