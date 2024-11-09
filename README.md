@@ -27,3 +27,28 @@ _This text is italic_
 
 _You **can** combine them_
 
+## Lists
+
+### Unordered
+
+- first
+- second
+- third
+    - first nested
+    - second nested
+- untested
+
+### Ordered
+
+1. first
+2. second
+     1. first ordered
+     2. second ordered
+   1. another level
+1. Unnested
+2. second untested
+
+
+
+
+
