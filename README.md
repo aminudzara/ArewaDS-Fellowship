@@ -18,3 +18,12 @@ November 5, 2024
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+
+## Emphasis
+
+_This text is italic_
+
+**This text is bold**
+
+_You **can** combine them_
+
